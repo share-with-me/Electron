@@ -1,0 +1,13 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "request-promise": "*",
+    "electron-prebuilt": "^0.37.1"
+  }
+}
